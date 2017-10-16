@@ -1,3 +1,3 @@
-digitalWrite(D0, 0);
-digitalWrite(D1, 0);
-digitalWrite(D2, 0);
+digitalWrite(5, 0); //red
+digitalWrite(4, 150); //green
+digitalWrite(14, 0); //blue
